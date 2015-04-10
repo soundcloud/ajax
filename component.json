@@ -1,6 +1,6 @@
 {
   "name": "ajax",
-  "repo": "ForbesLindesay/ajax",
+  "repo": "soundcloud/ajax",
   "description": "Standalone AJAX library inspired by jQuery/zepto",
   "version": "0.0.3",
   "keywords": [],
